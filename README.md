@@ -1,2 +1,2 @@
-# challange1
-Repo for Challenge 1 
+# semanticHTML-CSS
+This is a project using semantic HTML tags
